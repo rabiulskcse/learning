@@ -25,7 +25,7 @@ function Card(props) {
                 </div>
             </div> */}
 
-            {/* using props */}
+            {/* using props  */}
 
             <div>
                 <div className='card'>
